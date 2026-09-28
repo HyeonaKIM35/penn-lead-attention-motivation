@@ -1,0 +1,7 @@
+domain,analysis,sample,result
+Phenotype construction,GMM,N=92,Five-profile exploratory solution; cluster sizes = 6/41/9/7/29
+Diagnostic mapping,Chi-square + permutation,N=92,"Chi-square=10.019, df=8, permutation p=0.270, Cramer's V=0.233"
+Network neuroimaging,Dorsal Attention ANCOVA,N=77,"F(4,70)=6.625, FDR p=0.0010, partial eta2=0.275"
+Network neuroimaging,Control ANCOVA,N=77,"F(4,70)=4.986, FDR p=0.0047, partial eta2=0.222"
+Whole-brain neuroimaging,Voxelwise omnibus GLM,N=77,"6,658 / 174,794 voxels (3.81%) survived BH-FDR q<.05"
+Stability,500 bootstrap resamples,N=92,Median ARI=0.158; low resampling stability

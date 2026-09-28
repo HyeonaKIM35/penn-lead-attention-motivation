@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.env
+.venv/
+venv/
+
+# Raw / derived neuroimaging data
+data/
+raw/
+derived/*
+!derived/.gitkeep
+derivatives/
+sourcedata/
+sub-*/
+
+# Neuroimaging files
+*.nii
+*.nii.gz
+*.mgz
+*.mgh
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/

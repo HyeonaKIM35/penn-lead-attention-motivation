@@ -1,0 +1,5 @@
+stage,N,description
+Penn LEAD participants,132,Participants available in the Penn LEAD dataset
+Baseline complete-case phenotype sample,92,ses-1 participants complete across all 11 clustering indicators
+Primary neuroimaging sample,77,Participants with an official RT-duration 2-back > 0-back subject-level contrast map
+Neuroimaging sensitivity sample including ses-1,71,Primary brain sample restricted to neural estimates that included ses-1

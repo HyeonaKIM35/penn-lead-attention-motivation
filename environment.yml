@@ -1,0 +1,19 @@
+name: ds007116
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - nibabel
+  - nilearn
+  - jupyterlab
+  - ipykernel
+  - openpyxl

@@ -1,0 +1,41 @@
+component,atlas,region,n_voxels,percent_component,component_size
+3,Harvard-Oxford subcortical,Left Cerebral Cortex,1163,76.51315789473684,1520
+3,Harvard-Oxford cortical,Frontal Pole,425,27.960526315789473,1520
+3,Harvard-Oxford cortical,Middle Frontal Gyrus,360,23.68421052631579,1520
+3,Harvard-Oxford subcortical,Left Cerebral White Matter,357,23.486842105263158,1520
+3,Harvard-Oxford cortical,Precentral Gyrus,195,12.828947368421053,1520
+9,Harvard-Oxford subcortical,Left Cerebral Cortex,462,58.113207547169814,795
+9,Harvard-Oxford subcortical,Left Cerebral White Matter,333,41.886792452830186,795
+9,Harvard-Oxford cortical,"Lateral Occipital Cortex, superior division",241,30.31446540880503,795
+9,Harvard-Oxford cortical,Superior Parietal Lobule,148,18.61635220125786,795
+9,Harvard-Oxford cortical,Postcentral Gyrus,34,4.276729559748428,795
+124,Harvard-Oxford subcortical,Right Cerebral Cortex,442,79.06976744186046,559
+124,Harvard-Oxford cortical,Superior Parietal Lobule,241,43.112701252236135,559
+124,Harvard-Oxford cortical,"Supramarginal Gyrus, posterior division",129,23.076923076923077,559
+124,Harvard-Oxford subcortical,Right Cerebral White Matter,117,20.930232558139537,559
+124,Harvard-Oxford cortical,"Lateral Occipital Cortex, superior division",43,7.6923076923076925,559
+1,Harvard-Oxford subcortical,Left Cerebral Cortex,313,91.52046783625731,342
+1,Harvard-Oxford cortical,"Inferior Temporal Gyrus, temporooccipital part",217,63.45029239766082,342
+1,Harvard-Oxford cortical,"Middle Temporal Gyrus, temporooccipital part",88,25.730994152046783,342
+1,Harvard-Oxford subcortical,Left Cerebral White Matter,29,8.47953216374269,342
+1,Harvard-Oxford cortical,Temporal Occipital Fusiform Cortex,8,2.3391812865497075,342
+109,Harvard-Oxford subcortical,Right Cerebral Cortex,255,87.62886597938144,291
+109,Harvard-Oxford cortical,Superior Frontal Gyrus,96,32.98969072164948,291
+109,Harvard-Oxford cortical,Middle Frontal Gyrus,53,18.213058419243985,291
+109,Harvard-Oxford cortical,Precentral Gyrus,43,14.776632302405499,291
+109,Harvard-Oxford subcortical,Right Cerebral White Matter,36,12.371134020618557,291
+61,Harvard-Oxford subcortical,Left Cerebral Cortex,152,54.67625899280576,278
+61,Harvard-Oxford cortical,Paracingulate Gyrus,131,47.12230215827338,278
+61,Harvard-Oxford subcortical,Right Cerebral Cortex,97,34.89208633093525,278
+61,Harvard-Oxford cortical,Superior Frontal Gyrus,64,23.02158273381295,278
+61,Harvard-Oxford cortical,Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),42,15.107913669064748,278
+20,Harvard-Oxford subcortical,Left Cerebral Cortex,143,62.44541484716157,229
+20,Harvard-Oxford cortical,Insular Cortex,111,48.47161572052402,229
+20,Harvard-Oxford subcortical,Left Cerebral White Matter,86,37.55458515283843,229
+20,Harvard-Oxford cortical,Frontal Opercular Cortex,22,9.606986899563319,229
+20,Harvard-Oxford cortical,Frontal Orbital Cortex,12,5.240174672489083,229
+119,Harvard-Oxford subcortical,Right Cerebral Cortex,149,90.3030303030303,165
+119,Harvard-Oxford cortical,Insular Cortex,85,51.515151515151516,165
+119,Harvard-Oxford cortical,Frontal Opercular Cortex,50,30.303030303030305,165
+119,Harvard-Oxford subcortical,Right Cerebral White Matter,16,9.696969696969697,165
+119,Harvard-Oxford cortical,Frontal Orbital Cortex,5,3.0303030303030303,165

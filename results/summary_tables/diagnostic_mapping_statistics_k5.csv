@@ -1,0 +1,2 @@
+chi_square,df,p_asymptotic,p_permutation,cramers_v,expected_cells_below_5,expected_cells_total,percent_expected_below_5
+10.018567089238129,8,0.26372516682032154,0.27017298270172985,0.23334252544412476,9,15,60.0
